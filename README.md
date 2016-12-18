@@ -4,6 +4,8 @@ Date : 18-12-2016
 Author : K. F. Artist
 Subject : Final Project 
 
+URL : https://github.com/carlartist/B9lab-final-project
+
 InitialProject contract
 This contract is deployed by the migrations scripts, 2_deploy_contract.js after the fundinghub contract has been deployed. This contract will call the createproject function from the fundinghub contract to create an initial project.
 
