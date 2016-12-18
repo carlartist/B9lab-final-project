@@ -73,5 +73,6 @@ Pressing this button will retrieve the balance of the contract and other account
  
 
 Automated (truffle) test.
+
 The refund_function.js_test script is supposed to call the refund function from the project contract and send an amount to a predefined account simulating a refund. It should then compare the previous balance with the new balance and if not different throw an error.
 The test probably doesn’t work as it is impossible to run the test du
